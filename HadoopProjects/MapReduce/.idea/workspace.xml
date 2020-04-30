@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fc6375a7-cb23-4d25-b3a9-3c6c739360f0" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1WxVoRpyRmCXNJ5OfPgIBqvOwQa" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="GenerateAntBuildDialog.backupFiles" value="true" />
+    <property name="GenerateAntBuildDialog.enableUiFormCompile" value="true" />
+    <property name="GenerateAntBuildDialog.forceTargetJdk" value="true" />
+    <property name="GenerateAntBuildDialog.outputFileNameProperty" value="basicmapreduce" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/resources" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/resources/Input" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/resources" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="MapReduce" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="frimpz.MapReduce" />
+      <module name="BasicMapReduce" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="frimpz.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MapReduce" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fc6375a7-cb23-4d25-b3a9-3c6c739360f0" name="Default Changelist" comment="" />
+      <created>1580091408084</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580091408084</updated>
+      <workItem from="1580091415698" duration="4120000" />
+      <workItem from="1580098149476" duration="11822000" />
+      <workItem from="1580708080602" duration="4869000" />
+      <workItem from="1581736510996" duration="689000" />
+      <workItem from="1581810992062" duration="227000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="646" y="267" width="424" height="484" key="FileChooserDialogImpl" timestamp="1581811144143">
+      <screen x="67" y="27" width="1853" height="973" />
+    </state>
+    <state x="646" y="267" width="424" height="484" key="FileChooserDialogImpl/67.27.1853.973@67.27.1853.973" timestamp="1581811144143" />
+    <state width="880" height="252" key="GridCell.Tab.0.bottom" timestamp="1580601521750">
+      <screen x="67" y="27" width="1453" height="973" />
+    </state>
+    <state width="880" height="252" key="GridCell.Tab.0.bottom/67.27.1453.973@67.27.1453.973" timestamp="1580601521750" />
+    <state width="1235" height="222" key="GridCell.Tab.0.bottom/67.27.1853.973@67.27.1853.973" timestamp="1580091572535" />
+    <state width="880" height="252" key="GridCell.Tab.0.center" timestamp="1580601521747">
+      <screen x="67" y="27" width="1453" height="973" />
+    </state>
+    <state width="880" height="252" key="GridCell.Tab.0.center/67.27.1453.973@67.27.1453.973" timestamp="1580601521747" />
+    <state width="1235" height="222" key="GridCell.Tab.0.center/67.27.1853.973@67.27.1853.973" timestamp="1580091572533" />
+    <state width="880" height="252" key="GridCell.Tab.0.left" timestamp="1580601521746">
+      <screen x="67" y="27" width="1453" height="973" />
+    </state>
+    <state width="880" height="252" key="GridCell.Tab.0.left/67.27.1453.973@67.27.1453.973" timestamp="1580601521746" />
+    <state width="1235" height="222" key="GridCell.Tab.0.left/67.27.1853.973@67.27.1853.973" timestamp="1580091572531" />
+    <state width="880" height="252" key="GridCell.Tab.0.right" timestamp="1580601521750">
+      <screen x="67" y="27" width="1453" height="973" />
+    </state>
+    <state width="880" height="252" key="GridCell.Tab.0.right/67.27.1453.973@67.27.1453.973" timestamp="1580601521750" />
+    <state width="1235" height="222" key="GridCell.Tab.0.right/67.27.1853.973@67.27.1853.973" timestamp="1580091572534" />
+    <state x="315" y="320" key="com.intellij.ide.util.TipDialog" timestamp="1581810996472">
+      <screen x="67" y="27" width="1061" height="963" />
+    </state>
+    <state x="315" y="320" key="com.intellij.ide.util.TipDialog/67.27.1061.963@67.27.1061.963" timestamp="1581810996472" />
+    <state x="349" y="315" key="com.intellij.ide.util.TipDialog/67.27.1205.943@67.27.1205.943" timestamp="1580708082905" />
+    <state x="291" y="300" key="com.intellij.ide.util.TipDialog/67.27.957.896@67.27.957.896" timestamp="1581736522629" />
+    <state x="300" y="297" key="com.intellij.ide.util.TipDialog/67.27.997.885@67.27.997.885" timestamp="1580098177805" />
+  </component>
+</project>

@@ -1,0 +1,17 @@
+# Order of input files:
+
+# The program runs with no args,4 args, 9 args
+
+# No args uses the hardcoded paths
+# 4 args takes in as input only the input files(people.csv, batting.csv, Teams.csv and TeamsFranchises.csv) in that order.
+# 9 args takes in as input the input files, 4 intermediate directories, the final dierectory(/users/boadu).
+
+Parameters and Default
+## frimpz.Main -> main class
+# input file:
+    ## /users/data/People.csv, /users/data/Batting.csv, /users/data/Teams.csv, /users/data/TeamsFranchises.csv
+## output1 --> Join between People.csv and Batting.csv, /users/boadu_temp1
+## output2 --> Join between Team.csv and TeamFranchises.csv, /users/boadu_temp2
+## output3 --> Output of homerun computation, /users/boadu_temp3
+## output3 --> Final Output from multiple reducers, /users/boadu_temp4
+## /user/boadu --> final output

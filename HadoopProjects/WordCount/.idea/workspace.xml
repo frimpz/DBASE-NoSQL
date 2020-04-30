@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d6487369-674e-4820-8141-5585f515e6d0" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1We5kkN3aJuN49aWQzsQ8JlHbMh" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RunManager">
+    <configuration name="WordCount" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="WordCount.WordCount" />
+      <module name="WordCount" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.WordCount" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d6487369-674e-4820-8141-5585f515e6d0" name="Default Changelist" comment="" />
+      <created>1579497366060</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1579497366060</updated>
+      <workItem from="1579497382248" duration="2022000" />
+      <workItem from="1579499575995" duration="5221000" />
+      <workItem from="1579997679454" duration="722000" />
+      <workItem from="1580014009193" duration="34000" />
+      <workItem from="1580014950230" duration="386000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="777" height="188" key="GridCell.Tab.0.bottom" timestamp="1580015340430">
+      <screen x="67" y="27" width="1853" height="973" />
+    </state>
+    <state width="1183" height="221" key="GridCell.Tab.0.bottom/67.27.1229.973@67.27.1229.973" timestamp="1579498141130" />
+    <state width="777" height="188" key="GridCell.Tab.0.bottom/67.27.1349.963@67.27.1349.963" timestamp="1580015126463" />
+    <state width="1173" height="164" key="GridCell.Tab.0.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1579549191199" />
+    <state width="777" height="188" key="GridCell.Tab.0.bottom/67.27.1853.973@67.27.1853.973" timestamp="1580015340430" />
+    <state width="825" height="189" key="GridCell.Tab.0.bottom/67.27.909.963@67.27.909.963" timestamp="1579501079889" />
+    <state width="863" height="164" key="GridCell.Tab.0.bottom/67.27.909.973@67.27.909.973" timestamp="1579504353446" />
+    <state width="777" height="188" key="GridCell.Tab.0.center" timestamp="1580015340428">
+      <screen x="67" y="27" width="1853" height="973" />
+    </state>
+    <state width="1183" height="221" key="GridCell.Tab.0.center/67.27.1229.973@67.27.1229.973" timestamp="1579498141129" />
+    <state width="777" height="188" key="GridCell.Tab.0.center/67.27.1349.963@67.27.1349.963" timestamp="1580015126460" />
+    <state width="1173" height="164" key="GridCell.Tab.0.center/67.27.1853.1053@67.27.1853.1053" timestamp="1579549191198" />
+    <state width="777" height="188" key="GridCell.Tab.0.center/67.27.1853.973@67.27.1853.973" timestamp="1580015340428" />
+    <state width="825" height="189" key="GridCell.Tab.0.center/67.27.909.963@67.27.909.963" timestamp="1579501079888" />
+    <state width="863" height="164" key="GridCell.Tab.0.center/67.27.909.973@67.27.909.973" timestamp="1579504353445" />
+    <state width="777" height="188" key="GridCell.Tab.0.left" timestamp="1580015340427">
+      <screen x="67" y="27" width="1853" height="973" />
+    </state>
+    <state width="1183" height="221" key="GridCell.Tab.0.left/67.27.1229.973@67.27.1229.973" timestamp="1579498141129" />
+    <state width="777" height="188" key="GridCell.Tab.0.left/67.27.1349.963@67.27.1349.963" timestamp="1580015126460" />
+    <state width="1173" height="164" key="GridCell.Tab.0.left/67.27.1853.1053@67.27.1853.1053" timestamp="1579549191189" />
+    <state width="777" height="188" key="GridCell.Tab.0.left/67.27.1853.973@67.27.1853.973" timestamp="1580015340427" />
+    <state width="825" height="189" key="GridCell.Tab.0.left/67.27.909.963@67.27.909.963" timestamp="1579501079888" />
+    <state width="863" height="164" key="GridCell.Tab.0.left/67.27.909.973@67.27.909.973" timestamp="1579504353445" />
+    <state width="777" height="188" key="GridCell.Tab.0.right" timestamp="1580015340429">
+      <screen x="67" y="27" width="1853" height="973" />
+    </state>
+    <state width="1183" height="221" key="GridCell.Tab.0.right/67.27.1229.973@67.27.1229.973" timestamp="1579498141129" />
+    <state width="777" height="188" key="GridCell.Tab.0.right/67.27.1349.963@67.27.1349.963" timestamp="1580015126460" />
+    <state width="1173" height="164" key="GridCell.Tab.0.right/67.27.1853.1053@67.27.1853.1053" timestamp="1579549191199" />
+    <state width="777" height="188" key="GridCell.Tab.0.right/67.27.1853.973@67.27.1853.973" timestamp="1580015340429" />
+    <state width="825" height="189" key="GridCell.Tab.0.right/67.27.909.963@67.27.909.963" timestamp="1579501079889" />
+    <state width="863" height="164" key="GridCell.Tab.0.right/67.27.909.973@67.27.909.973" timestamp="1579504353445" />
+    <state x="67" y="188" width="899" height="684" key="Maven.ArtifactSearchDialog" timestamp="1579499712097">
+      <screen x="67" y="27" width="909" height="963" />
+    </state>
+    <state x="67" y="188" key="Maven.ArtifactSearchDialog/67.27.909.963@67.27.909.963" timestamp="1579499712097" />
+    <state x="67" y="190" width="899" height="684" key="Maven.ArtifactSearchDialog/67.27.909.973@67.27.909.973" timestamp="1579498559782" />
+    <state x="67" y="108" width="1003" height="845" key="SettingsEditor" timestamp="1579497893031">
+      <screen x="67" y="27" width="1013" height="973" />
+    </state>
+    <state x="67" y="108" width="1003" height="845" key="SettingsEditor/67.27.1013.973@67.27.1013.973" timestamp="1579497893031" />
+    <state x="566" y="358" key="com.intellij.ide.util.TipDialog" timestamp="1579997708189">
+      <screen x="67" y="27" width="1853" height="973" />
+    </state>
+    <state x="566" y="358" key="com.intellij.ide.util.TipDialog/67.27.1853.973@67.27.1853.973" timestamp="1579997708189" />
+    <state x="288" y="355" key="com.intellij.ide.util.TipDialog/67.27.909.963@67.27.909.963" timestamp="1579499589681" />
+    <state x="298" y="199" width="1372" height="592" key="new project wizard" timestamp="1579997975633">
+      <screen x="67" y="27" width="909" height="963" />
+    </state>
+    <state x="538" y="201" width="1372" height="592" key="new project wizard/67.27.1853.973@67.27.1853.973" timestamp="1579997895078" />
+    <state x="298" y="199" key="new project wizard/67.27.909.963@67.27.909.963" timestamp="1579997975633" />
+  </component>
+</project>

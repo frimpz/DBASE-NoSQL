@@ -1,0 +1,3 @@
+[submodule "MBEA"]
+	path = MBEA
+	url = https://github.com/frimpz/NoSQL.git
