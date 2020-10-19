@@ -1,0 +1,36 @@
+********* Details for program *************
+Scala is used for the program 1 and 2
+
+
+libraryDependencies: found in build.sbt
+
+  "org.apache.spark" %% "spark-core" % "2.3.0",
+  "org.apache.spark" %% "spark-sql" % "2.3.0",
+  "org.apache.spark" %% "spark-mllib" % "2.3.0"
+
+  
+$scalaVersion: 2.11.12
+$Java version: 1.8
+$Hadoop version 3.1.2
+   
+
+Program location:
+program 1 : DBase/src/main/scala/program1
+program 2 : DBase/src/main/scala/program2
+
+python code for converting files for git
+data_converter
+
+code for converting files into hdfs
+hdfs : DBase/src/main/scala/hdfs
+
+model saved as
+src/main/resources/savedModel/myRandomForestRegressionModel
+
+transactions for 2018
+src/main/resources/transactions
+
+validation results
+src/main/resources/transactions
+
+******************** End ********************
